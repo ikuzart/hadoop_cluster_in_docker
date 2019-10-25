@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <property>
+    <name>fs.defaultFS</name>
+    <value>hdfs://mycluster</value>
+  </property>
+  <property>
+      <name>dfs.replication</name>
+      <value>1</value>
+  </property>
+</configuration>
